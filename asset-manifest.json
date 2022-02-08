@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://wendelsoaresdev.github.io/csb-mnlgc/static/css/main.a7f3aef8.chunk.css",
+    "main.js": "https://wendelsoaresdev.github.io/csb-mnlgc/static/js/main.e25616e9.chunk.js",
+    "main.js.map": "https://wendelsoaresdev.github.io/csb-mnlgc/static/js/main.e25616e9.chunk.js.map",
+    "runtime-main.js": "https://wendelsoaresdev.github.io/csb-mnlgc/static/js/runtime-main.4fefd0f1.js",
+    "runtime-main.js.map": "https://wendelsoaresdev.github.io/csb-mnlgc/static/js/runtime-main.4fefd0f1.js.map",
+    "static/js/2.2b00cc67.chunk.js": "https://wendelsoaresdev.github.io/csb-mnlgc/static/js/2.2b00cc67.chunk.js",
+    "static/js/2.2b00cc67.chunk.js.map": "https://wendelsoaresdev.github.io/csb-mnlgc/static/js/2.2b00cc67.chunk.js.map",
+    "index.html": "https://wendelsoaresdev.github.io/csb-mnlgc/index.html",
+    "static/css/main.a7f3aef8.chunk.css.map": "https://wendelsoaresdev.github.io/csb-mnlgc/static/css/main.a7f3aef8.chunk.css.map",
+    "static/js/2.2b00cc67.chunk.js.LICENSE.txt": "https://wendelsoaresdev.github.io/csb-mnlgc/static/js/2.2b00cc67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fefd0f1.js",
+    "static/js/2.2b00cc67.chunk.js",
+    "static/css/main.a7f3aef8.chunk.css",
+    "static/js/main.e25616e9.chunk.js"
+  ]
+}
